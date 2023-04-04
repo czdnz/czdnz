@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**czdnz/czdnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Cemal Özdeniz, and I am currently studying Management Information Systems at Pamukkale University. I have always had a strong interest in coding, and I am particularly proficient in the C programming language. Recently, I have been developing my skills in C# as well, and I thoroughly enjoy learning new things about software development.
 
 My passion for coding began in high school, where I took several computer science courses and discovered my talent for programming. Since then, I have been committed to improving my skills and staying up-to-date with the latest industry trends.
