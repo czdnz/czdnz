@@ -10,6 +10,8 @@ In addition to my technical abilities, I possess excellent problem-solving and c
 
 Overall, I am passionate about coding and software development, and I look forward to continuing to expand my knowledge and skills in this exciting field.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=czdnz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
