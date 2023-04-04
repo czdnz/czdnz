@@ -12,6 +12,7 @@ Overall, I am passionate about coding and software development, and I look forwa
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=czdnz)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czdnz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
